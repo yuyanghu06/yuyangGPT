@@ -1,0 +1,12 @@
+[
+{"ID": 1220473552059371611, "Timestamp": "2024-03-21 20:46:10", "Contents": "maybe tone it down from the default 10 shares to like 2 or 3 given how much profit central banks generate", "Attachments": ""},
+{"ID": 1220473478566903838, "Timestamp": "2024-03-21 20:45:52", "Contents": "well i think giving them shares of the profits would fix it too", "Attachments": ""},
+{"ID": 1220160821204881529, "Timestamp": "2024-03-21 00:03:29", "Contents": "i think it would be beneficial to change it so that banks dont employ capitalists, since right now they dont get any shares of the profits being made from the buildings and as such they get paid less than capitalists normally would, thus making it difficult for banks to hire them which kinda bottlenecks hiring for other positions", "Attachments": ""},
+{"ID": 1205745759673389096, "Timestamp": "2024-02-10 05:23:10", "Contents": "would it be possible to implement a \"maximum\" for the amount of your currency you allow other nations to buy?", "Attachments": ""},
+{"ID": 1205040520552910859, "Timestamp": "2024-02-08 06:40:48", "Contents": "at least thats the only ones ive noticed", "Attachments": ""},
+{"ID": 1205040468686020608, "Timestamp": "2024-02-08 06:40:36", "Contents": "if that helps at all", "Attachments": ""},
+{"ID": 1205040450692456498, "Timestamp": "2024-02-08 06:40:32", "Contents": "so far i think its just the mining and industry sections that arent paying proper dividends", "Attachments": ""},
+{"ID": 1204995529914847252, "Timestamp": "2024-02-08 03:42:02", "Contents": "which meant that capitalists werent getting paid profit dividends from factories", "Attachments": ""},
+{"ID": 1204995489297080331, "Timestamp": "2024-02-08 03:41:52", "Contents": "so i looked through the code and noticed that in common/production_methods/01_ef_industry the publicly traded production method had the line             building_capitalists_money_add = 10 instead of             building_capitalists_shares_add =  10", "Attachments": ""},
+{"ID": 1204995174351241296, "Timestamp": "2024-02-08 03:40:37", "Contents": "<@831601921496186881> idk if this is a bug or not but i noticed that my capitalists werent making any money from dividends when i went on publicly traded", "Attachments": ""}
+]
